@@ -1,6 +1,10 @@
 
 # Large text file reader.
 
+## install
+
+```pip install slimdbhelper```
+
 ## usage:
 ```
 from readlargefile.line_reader import LineReader
