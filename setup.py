@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="readlargefile",
-    version="1.0.2",
+    version="1.0.4",
     author="xbn",
     author_email="xmgit@outlook.com",
     description="Large text file reader.",
@@ -20,7 +20,7 @@ setuptools.setup(
         "License :: OSI Approved :: Apache Software License",
         "Operating System :: OS Independent"
     ],
-    keywords='Large text file reader',
+    keywords='Large textfile reader',
     install_requires=[],
     python_requires='~=3.7'
 )
