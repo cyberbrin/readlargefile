@@ -3,7 +3,7 @@
 
 ## install
 
-```pip install slimdbhelper```
+```pip install readlargefile```
 
 ## usage:
 ```
