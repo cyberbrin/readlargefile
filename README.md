@@ -8,7 +8,8 @@
 ## usage:
 ```
 from readlargefile.line_reader import LineReader
-
+# max_line: Maximum length of the line
+# sep: Separate byte, default '\n'
 with LineReader(file_name, max_line, sep) as reader:
     # line is <class 'bytes'>
     for line in reader:
