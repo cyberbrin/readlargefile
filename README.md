@@ -1,5 +1,5 @@
 
-# Large file reader.
+# Large text file reader.
 
 ## usage:
 ```
